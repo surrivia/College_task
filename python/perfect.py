@@ -1,4 +1,5 @@
-number = int(input("Enter Number: "))
+# A Python program to check if a number is perfect
+number = int(input("Enter Number - "))
 
 sum_of_factors = 0
 
